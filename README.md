@@ -20,20 +20,20 @@ A clean and beginner-friendly collection of fundamental sorting algorithms imple
 Make sure you have a C compiler installed (such as **GCC**). Open your terminal and follow these steps:
 
 ### 1. Clone the repository
-\`\`\`bash
+```bash
 git clone https://github.com/ankurkundu216-del/sorting_algorithms.git
 cd sorting_algorithms
-\`\`\`
+```
 
 ### 2. Compile any sorting file (e.g., Quick Sort)
-\`\`\`bash
+```bash
 gcc quick_sorting.c -o quick_sort
-\`\`\`
+```
 
 ### 3. Run the compiled program
-\`\`\`bash
+```bash
 ./quick_sort
-\`\`\`
+```
 
 *(Note: You can replace `quick_sorting.c` with any other file like `bubble_sorting.c`, `selection_sorting.c`, or `insertion_sorting.c`)*
 
